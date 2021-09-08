@@ -1,0 +1,3 @@
+R5T.T0046.Construction - Construction project for Author type abstraction and implementation (simple)..
+
+GOALS:
